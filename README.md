@@ -1,16 +1,34 @@
-# hungry
+# Hungry 🍔
 
-A new Flutter project.
+Hungry is a Flutter-based burger ordering application that consumes RESTful APIs using Dio for networking and data handling.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- User Authentication (Signup / Login / Logout)
+- Browse burgers fetched from REST API
+- Add burgers to cart
+- Mark burgers as favorites
+- Customize each order by selecting flavors
+- Clean and user-friendly UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dio (API Networking)
+- RESTful APIs
+- Clean Architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+This project is a Flutter application.
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/hungry.git
